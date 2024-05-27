@@ -1,7 +1,14 @@
+#story 121
+int x y z
+
+
 int a=10
 int b-20
 int c=30
 
 
+<<<<<<< Updated upstream
 story-213
 int y
+=======
+>>>>>>> Stashed changes
