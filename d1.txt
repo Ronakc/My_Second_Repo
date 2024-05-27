@@ -12,3 +12,8 @@ print the data
 #story 131
 
 int x=y +i 
+
+
+#story132
+1111
+
