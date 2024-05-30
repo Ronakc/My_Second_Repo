@@ -2,5 +2,11 @@ int a=12
 int b=24
 
 
+
 story131
 p=x+y
+
+
+#story121
+int h,r,c
+
